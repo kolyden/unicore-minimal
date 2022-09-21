@@ -1,0 +1,3 @@
+[submodule "libs/unicore"]
+	path = libs/unicore
+	url = https://github.com/dekovir/st-unicore.git
